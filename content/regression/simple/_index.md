@@ -1,2 +1,5 @@
 ---
-title: 7.1 Simple linear regression
+title: Simple linear regression
+type: docs
+toc: false
+---
